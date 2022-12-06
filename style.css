@@ -1,0 +1,14 @@
+body{
+background-color: burlywood;
+}
+p{
+margin-left: 45px;
+font-size: 30px;
+width: 700px;
+display: inline-block;
+}
+h1{
+float: left;
+margin-left: 43px;
+font-size: 12px;
+}
